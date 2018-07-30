@@ -1,0 +1,1 @@
+javascript:(function()%7Bvar%20clipnumber=document.getElementsByClassName('Video__title')[0].textContent.match(/\d+/)[0];var%20the_url="https://hegartymaths.com/skills/"+clipnumber+"/preview";document.location.href=the_url%7D ())
